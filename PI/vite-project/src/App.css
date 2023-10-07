@@ -1,0 +1,14 @@
+.container{
+    /* background-color: aqua; */
+  font-family: Arial, Helvetica, sans-serif;
+  /* Se resetean los estilos por defecto del navegador */
+  height: 100%;
+  padding: 20px; 
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
